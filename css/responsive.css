@@ -1,0 +1,66 @@
+@media (max-width: 575px) {
+    .slider_text p{
+       width: 100%; 
+    }
+    .top_manue_cover{
+        padding: 5px 0px;
+    }
+    .buty_disc p{
+        width: 100%;
+        text-align: center;
+    }
+    .box {
+        padding: 30px;
+        margin: 0px 10px 0px 10px;
+        padding-bottom: 0;
+    }
+    .last_proj_disc p {
+        width: 100%;
+        text-align: center;
+    }
+    .get_teach_disc p{
+        width: 100%;
+    }
+    .footer_section h3{
+        margin-top: 10px;
+    }
+    .segment-three .icon_box ul{
+        margin-bottom: 0;
+    }
+    .segment-four form{
+        padding: 5px 3px;
+        width: 51%;  
+    }
+    .segment-four form input[type="submit"]{
+        padding: 2px 3px;
+    }
+    .btm_manue_contact p {
+        color: #fff;
+        font-size: 12px;
+        margin: 5px auto;
+    }
+}
+@media (max-width: 991px) {
+    .main_menue_cover .navbar {
+        flex-basis: 100%;
+    }
+    .slider_text p{
+        width: 100%; 
+     }
+     .top_manue_cover{
+         padding: 5px 0px;
+     }
+     .buty_disc p{
+         width: 100%;
+         text-align: center;
+     }
+     /* .box h2 {
+        margin-left: 50px;
+    }
+    .box .disc {
+    margin-left: 50px;
+} */
+.get_teach_disc p{
+    width: 100%;
+}
+}
